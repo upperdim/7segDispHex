@@ -25,9 +25,15 @@ Hexadecimal 7 segment display circuit created in 'Digital'.
 # Boolean Expressions
 
 a = B'D' + A'C + BC + AD' + A'BD + AB'C'
+
 b = A'B' + B'D' + A'C'D' + A'CD + AC'D
+
 c = A'C' + A'D + C'D + A'B + AB'
+
 d = AC' + A'B'D' + B'CD + BC'D + BCD'
+
 e = B'D' + CD' + AC + AB
+
 f = C'D' + BD' + AB' + AC + A'BC'
+
 g = B'C + CD' + AB' + AD + A'BC'
